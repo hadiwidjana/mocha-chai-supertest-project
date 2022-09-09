@@ -1,4 +1,4 @@
-# mocha-homework
+# mocha-chai-supertest
 API test using mocha on local API server
 
 ## Getting started
